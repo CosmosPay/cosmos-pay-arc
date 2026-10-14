@@ -79,4 +79,4 @@ Gas is USDC with 18 decimals natively, while the ERC-20 interface uses 6. The co
 
 ## Status
 
-Contract tests pass on every push through [`.github/workflows/arc.yml`](../.github/workflows/arc.yml): build, test and format check. Deployment addresses land in `deployment.json` once the deploy script runs.
+Contract tests pass on every push through [`.github/workflows/ci.yml`](.github/workflows/ci.yml): build, test and format check. Deployment addresses land in `deployment.json` once the deploy script runs.
