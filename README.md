@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://cosmospay.lat"><img src=".github/assets/banner.png" width="100%" alt="Cosmos Pay on Arc: charge in USDC and settle to the merchant in one transaction."></a>
+</p>
+
 # Cosmos Pay on Arc
 
 Charge in USDC on [Arc](https://docs.arc.io) and settle to the merchant in one transaction. The receipt is an event anyone can read on-chain.
